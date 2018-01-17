@@ -1,0 +1,1001 @@
+id,Country,State,Location Name,Latitude,Longitude,Number of Parcels
+1,United States,Texas,Amarillo,35.4015,-101.8951,37
+2,United States,California,Sacramento,38.4826,-121.4006,53
+3,United States,Pennsylvania,Pittsburgh,40.4344,-80.0248,93
+4,United States,District of Columbia,Washington,38.8933,-77.0146,69
+5,United States,Florida,Pensacola,30.6143,-87.2758,85
+6,United States,Florida,Homestead,25.2846,-80.6246,3
+7,United States,Michigan,Detroit,42.2399,-83.1508,100
+8,United States,Florida,Orlando,28.5289,-81.4787,95
+9,United States,Arizona,Tucson,32.3366,-111.1771,49
+10,United States,Colorado,Denver,39.7388,-104.4083,40
+11,United States,Missouri,Springfield,37.1803,-93.2951,37
+12,United States,Michigan,Detroit,42.2719,-83.1545,43
+13,United States,Connecticut,Fairfield,41.1928,-73.2402,95
+14,United States,California,Los Angeles,34.0434,-118.2716,16
+15,United States,California,Oceanside,33.1968,-117.2831,31
+16,United States,Louisiana,Baton Rouge,30.486,-91.1481,37
+17,United States,Oklahoma,Oklahoma City,35.421,-97.5616,73
+18,United States,District of Columbia,Washington,38.8933,-77.0146,7
+19,United States,Texas,El Paso,31.7444,-106.2879,37
+20,United States,Nevada,Carson City,39.2025,-119.7526,71
+21,United States,California,Los Angeles,33.9754,-118.417,62
+22,United States,California,Berkeley,37.6802,-121.9215,33
+23,United States,Indiana,Evansville,37.9971,-87.575,92
+24,United States,California,San Francisco,37.7848,-122.7278,21
+25,United States,Maryland,Baltimore,39.2856,-76.6899,100
+26,United States,Florida,Hialeah,25.9098,-80.3889,63
+27,United States,Colorado,Denver,39.7783,-104.7556,81
+28,United States,Tennessee,Nashville,36.1114,-86.869,79
+29,United States,California,Pasadena,33.7866,-118.2987,99
+30,United States,Florida,Kissimmee,27.9953,-81.2593,35
+31,United States,Arizona,Phoenix,33.6299,-112.1316,39
+32,United States,Arizona,Scottsdale,33.6013,-111.8867,11
+33,United States,Minnesota,Monticello,45.2009,-93.8881,3
+34,United States,Minnesota,Maple Plain,45.0159,-93.4719,70
+35,United States,Colorado,Colorado Springs,38.8247,-104.562,14
+36,United States,Florida,Gainesville,29.6785,-82.3679,6
+37,United States,Illinois,Chicago,41.8119,-87.6873,63
+38,United States,California,Fresno,36.7464,-119.6397,76
+39,United States,New York,Albany,42.6149,-73.9708,61
+40,United States,California,San Diego,33.0169,-116.846,82
+41,United States,Florida,Fort Myers,26.5529,-81.9486,10
+42,United States,Texas,Houston,29.834,-95.4342,11
+43,United States,Kansas,Topeka,39.0429,-95.7697,45
+44,United States,Missouri,Kansas City,39.3432,-94.8516,70
+45,United States,New York,Rochester,43.286,-77.6843,12
+46,United States,Texas,Houston,29.834,-95.4342,11
+47,United States,Virginia,Richmond,37.5313,-77.4161,60
+48,United States,Tennessee,Knoxville,35.9244,-84.0015,89
+49,United States,New York,Buffalo,42.8614,-78.8206,4
+50,United States,District of Columbia,Washington,38.8933,-77.0146,9
+51,United States,New York,New Hyde Park,40.7548,-73.6018,28
+52,United States,California,Mountain View,37.1894,-121.7053,73
+53,United States,Michigan,Detroit,42.2399,-83.1508,88
+54,United States,Florida,Miami,25.6615,-80.441,97
+55,United States,Florida,Hialeah,25.8594,-80.2725,93
+56,United States,District of Columbia,Washington,38.8874,-77.0047,10
+57,United States,Wisconsin,Green Bay,44.4601,-88.0074,15
+58,United States,Oklahoma,Tulsa,36.1398,-96.0297,53
+59,United States,California,San Diego,33.0169,-116.846,54
+60,United States,Georgia,Macon,32.8067,-83.6913,40
+61,United States,North Carolina,Greensboro,36.0807,-80.0244,24
+62,United States,West Virginia,Huntington,38.4134,-82.2774,82
+63,United States,Oregon,Portland,45.5653,-122.6448,32
+64,United States,Tennessee,Nashville,36.1866,-86.7852,42
+65,United States,Oregon,Portland,45.5806,-122.3748,97
+66,United States,Virginia,Virginia Beach,36.8282,-76.0237,69
+67,United States,Florida,Tampa,27.872,-82.4388,28
+68,United States,Washington,Tacoma,47.0662,-122.1132,83
+69,United States,Oregon,Portland,45.5078,-122.6897,8
+70,United States,Ohio,Canton,40.8259,-81.3399,62
+71,United States,Texas,El Paso,31.6948,-106.3,16
+72,United States,Florida,Fort Myers,26.5529,-81.9486,53
+73,United States,Florida,Seminole,27.8444,-82.7963,25
+74,United States,Texas,Houston,30.0167,-95.447,96
+75,United States,Florida,Saint Petersburg,27.7898,-82.7243,21
+76,United States,Kansas,Wichita,37.7639,-97.4269,41
+77,United States,Missouri,Kansas City,38.8606,-94.4636,40
+78,United States,Connecticut,Hartford,41.7638,-72.673,19
+79,United States,Nevada,Las Vegas,35.9279,-114.9721,44
+80,United States,Minnesota,Minneapolis,44.8756,-93.2553,87
+81,United States,Texas,Bryan,30.6521,-96.341,13
+82,United States,Tennessee,Knoxville,35.9244,-84.0015,47
+83,United States,Texas,Austin,30.4501,-97.4865,6
+84,United States,Ohio,Mansfield,40.7779,-82.4613,56
+85,United States,Washington,Seattle,47.6849,-122.2968,88
+86,United States,Georgia,Marietta,33.9328,-84.556,79
+87,United States,California,San Jose,37.2602,-121.7709,23
+88,United States,Louisiana,Shreveport,32.6076,-93.7526,57
+89,United States,Florida,Port Charlotte,27.0228,-82.1108,76
+90,United States,California,Fresno,36.7949,-119.7604,46
+91,United States,North Carolina,Charlotte,35.244,-80.7387,46
+92,United States,Missouri,Saint Louis,38.7072,-90.3055,42
+93,United States,Florida,Largo,27.8546,-82.7545,94
+94,United States,North Carolina,Winston Salem,36.0275,-80.2073,12
+95,United States,Florida,Fort Lauderdale,26.0989,-80.1541,34
+96,United States,Florida,Zephyrhills,28.2059,-82.3063,92
+97,United States,Kentucky,Louisville,38.2222,-85.6885,1
+98,United States,Idaho,Boise,43.4599,-116.244,14
+99,United States,West Virginia,Charleston,38.2968,-81.5547,75
+100,United States,Virginia,Roanoke,37.2742,-79.9579,28
+101,United States,Minnesota,Duluth,46.8147,-92.1998,69
+102,United States,Arizona,Mesa,33.4368,-111.7129,3
+103,United States,Florida,Clearwater,28.0173,-82.7461,42
+104,United States,Minnesota,Saint Cloud,45.5289,-94.5933,68
+105,United States,Kentucky,Lexington,37.9651,-84.4708,17
+106,United States,Arizona,Glendale,33.5291,-112.2482,97
+107,United States,Illinois,Chicago,41.8119,-87.6873,15
+108,United States,Illinois,Chicago,41.8119,-87.6873,31
+109,United States,Louisiana,New Orleans,30.033,-89.8826,8
+110,United States,Arizona,Phoenix,33.2765,-112.1872,35
+111,United States,Virginia,Norfolk,36.9312,-76.2397,69
+112,United States,Kansas,Shawnee Mission,38.8999,-94.832,15
+113,United States,Maryland,Laurel,38.8336,-76.8777,43
+114,United States,California,San Diego,32.7607,-117.0721,88
+115,United States,California,Fresno,36.7464,-119.6397,58
+116,United States,New York,Rochester,43.1577,-77.608,61
+117,United States,Texas,Waco,31.6403,-97.0963,47
+118,United States,Louisiana,New Orleans,30.033,-89.8826,99
+119,United States,Florida,Miami,25.813,-80.232,38
+120,United States,Texas,Dallas,32.7673,-96.7776,54
+121,United States,Florida,Orlando,28.5469,-81.2571,49
+122,United States,Ohio,Columbus,40.0028,-83.0164,82
+123,United States,California,Los Angeles,34.0665,-118.3022,38
+124,United States,Hawaii,Honolulu,21.2987,-157.6985,62
+125,United States,Florida,Seminole,27.8444,-82.7963,47
+126,United States,Texas,Lubbock,33.61,-101.8213,25
+127,United States,Georgia,Atlanta,33.7473,-84.3824,95
+128,United States,Arizona,Peoria,33.7169,-112.238,55
+129,United States,Louisiana,New Orleans,30.033,-89.8826,52
+130,United States,Arizona,Phoenix,33.2765,-112.1872,85
+131,United States,Kansas,Shawnee Mission,38.949,-94.7405,72
+132,United States,Virginia,Arlington,38.8808,-77.113,54
+133,United States,New Mexico,Albuquerque,35.1104,-106.5781,88
+134,United States,North Carolina,Raleigh,35.7977,-78.6253,100
+135,United States,California,Pasadena,33.7866,-118.2987,60
+136,United States,California,San Diego,32.7423,-117.0947,30
+137,United States,North Carolina,Charlotte,35.22,-80.7881,18
+138,United States,Missouri,Columbia,38.9033,-92.1022,84
+139,United States,Oregon,Portland,45.5137,-122.5569,46
+140,United States,California,Glendale,33.7866,-118.2987,86
+141,United States,New York,New York City,40.7339,-74.0054,62
+142,United States,Tennessee,Murfreesboro,35.8596,-86.421,30
+143,United States,Texas,San Antonio,29.3494,-98.4422,50
+144,United States,California,San Bernardino,34.84,-115.9671,37
+145,United States,California,San Jose,37.3163,-121.9356,22
+146,United States,Florida,Orlando,28.5663,-81.2608,60
+147,United States,New York,New York City,40.7864,-73.9764,6
+148,United States,California,Los Angeles,33.7866,-118.2987,29
+149,United States,Pennsylvania,Philadelphia,40.0422,-75.0244,3
+150,United States,Florida,Fort Myers,26.5228,-81.7065,61
+151,United States,California,Sacramento,38.3774,-121.4444,40
+152,United States,Indiana,Indianapolis,39.8726,-86.2768,52
+153,United States,District of Columbia,Washington,38.8933,-77.0146,73
+154,United States,Minnesota,Minneapolis,45.0159,-93.4719,70
+155,United States,Washington,Spokane,47.6964,-117.4399,88
+156,United States,Massachusetts,Boston,42.2868,-71.071,54
+157,United States,Florida,Miami,25.768,-80.2714,67
+158,United States,Minnesota,Monticello,45.2009,-93.8881,74
+159,United States,Connecticut,New Haven,41.3087,-72.9271,3
+160,United States,Florida,Daytona Beach,29.0227,-81.1722,47
+161,United States,Nevada,Las Vegas,36.1693,-115.2828,74
+162,United States,Connecticut,New Haven,41.3657,-72.9275,84
+163,United States,Tennessee,Jackson,35.6124,-88.8412,17
+164,United States,Virginia,Richmond,37.5158,-77.5047,96
+165,United States,Louisiana,Baton Rouge,30.5159,-91.0804,27
+166,United States,Arizona,Mesa,33.4707,-111.7188,57
+167,United States,Georgia,Atlanta,33.8444,-84.474,19
+168,United States,Iowa,Davenport,41.5386,-90.6115,84
+169,United States,Ohio,Cleveland,41.5008,-81.5516,31
+170,United States,Florida,Vero Beach,27.709,-80.5726,12
+171,United States,Washington,Kent,47.368,-122.1206,79
+172,United States,Florida,Gainesville,29.6813,-82.3539,47
+173,United States,Colorado,Aurora,39.7467,-104.8384,6
+174,United States,Florida,Vero Beach,27.709,-80.5726,94
+175,United States,Texas,Houston,29.834,-95.4342,24
+176,United States,Louisiana,New Orleans,29.9686,-90.0646,83
+177,United States,Alaska,Fairbanks,64.8544,-147.8469,18
+178,United States,Colorado,Fort Collins,40.5384,-105.0547,76
+179,United States,Louisiana,Baton Rouge,30.5159,-91.0804,76
+180,United States,California,Sacramento,38.4797,-121.4438,94
+181,United States,Montana,Bozeman,45.7246,-111.1238,34
+182,United States,Illinois,Springfield,39.7495,-89.606,82
+183,United States,Kansas,Topeka,39.0429,-95.7697,98
+184,United States,District of Columbia,Washington,38.8933,-77.0146,64
+185,United States,District of Columbia,Washington,38.9164,-76.9948,43
+186,United States,Illinois,Springfield,39.778,-89.6466,56
+187,United States,Florida,Clearwater,27.8918,-82.7248,73
+188,United States,Florida,Orlando,28.5663,-81.2608,21
+189,United States,Colorado,Boulder,40.0878,-105.3735,13
+190,United States,Michigan,Lansing,42.7286,-84.5517,57
+191,United States,Florida,Fort Myers,26.5529,-81.9486,72
+192,United States,Michigan,Midland,43.6375,-84.2568,62
+193,United States,Pennsylvania,Harrisburg,40.2618,-76.88,46
+194,United States,New Mexico,Albuquerque,35.0443,-106.6729,5
+195,United States,Nebraska,Omaha,41.2949,-96.0546,69
+196,United States,Utah,Provo,40.177,-111.536,86
+197,United States,Missouri,Kansas City,39.0351,-94.5467,56
+198,United States,Iowa,Cedar Rapids,41.9804,-91.7098,5
+199,United States,Utah,Salt Lake City,40.6681,-111.9083,31
+200,United States,Idaho,Boise,43.4599,-116.244,82
+201,United States,Oklahoma,Oklahoma City,35.421,-97.5616,46
+202,United States,Nebraska,Omaha,41.2917,-96.1711,65
+203,United States,Colorado,Pueblo,38.2352,-104.66,77
+204,United States,Tennessee,Kingsport,36.5799,-82.5733,76
+205,United States,New York,Staten Island,40.5973,-74.0768,79
+206,United States,California,North Hollywood,34.1872,-118.3865,13
+207,United States,New Jersey,Trenton,40.2204,-74.7622,65
+208,United States,Texas,Houston,29.8941,-95.6481,74
+209,United States,Texas,Austin,30.1876,-97.7472,89
+210,United States,West Virginia,Morgantown,39.6505,-79.944,91
+211,United States,California,Sacramento,38.3774,-121.4444,42
+212,United States,North Carolina,Durham,36.0218,-78.9478,86
+213,United States,Arizona,Chandler,33.2765,-112.1872,35
+214,United States,Louisiana,Baton Rouge,30.4558,-91.0596,13
+215,United States,Pennsylvania,Lancaster,40.0418,-76.3012,12
+216,United States,New Mexico,Albuquerque,35.0443,-106.6729,100
+217,United States,Alabama,Mobile,30.6589,-88.178,20
+218,United States,New York,New York City,40.7262,-73.9796,43
+219,United States,Arizona,Tucson,32.2691,-110.9845,61
+220,United States,North Carolina,Charlotte,35.26,-80.8042,23
+221,United States,Kentucky,Louisville,38.2306,-85.7905,14
+222,United States,Nebraska,Omaha,41.2917,-96.1711,52
+223,United States,California,San Jose,37.3329,-121.8916,60
+224,United States,Hawaii,Honolulu,21.3062,-157.8585,88
+225,United States,Texas,Katy,29.8678,-95.8298,59
+226,United States,New York,Buffalo,42.7684,-78.8871,45
+227,United States,Ohio,Columbus,39.969,-83.0114,67
+228,United States,Florida,West Palm Beach,26.6654,-80.0929,61
+229,United States,Georgia,Atlanta,33.7488,-84.3883,71
+230,United States,District of Columbia,Washington,38.884,-77.0221,79
+231,United States,Texas,Dallas,32.7673,-96.7776,41
+232,United States,Texas,Tyler,32.4112,-95.2899,73
+233,United States,Texas,Houston,29.6518,-95.4854,29
+234,United States,California,Huntington Beach,33.6773,-118.0051,88
+235,United States,New York,Albany,42.6149,-73.9708,22
+236,United States,Indiana,Evansville,37.9971,-87.575,63
+237,United States,New York,Flushing,40.7536,-73.8226,39
+238,United States,Texas,Houston,29.7853,-95.1852,31
+239,United States,Hawaii,Honolulu,21.3278,-157.8294,67
+240,United States,Illinois,Chicago,41.9399,-87.6528,19
+241,United States,Missouri,Jefferson City,38.5309,-92.2493,92
+242,United States,California,Sacramento,38.3774,-121.4444,49
+243,United States,Arkansas,Hot Springs National Park,34.5137,-92.9685,43
+244,United States,Tennessee,Memphis,35.2017,-89.9715,48
+245,United States,New York,Albany,42.6149,-73.9708,68
+246,United States,South Carolina,Florence,34.1231,-79.6893,7
+247,United States,Texas,Dallas,32.7673,-96.7776,65
+248,United States,Florida,West Palm Beach,26.6644,-80.1741,15
+249,United States,Texas,Galveston,29.2243,-94.9637,62
+250,United States,Florida,Bradenton,27.4544,-82.6358,11
+251,United States,Texas,El Paso,31.8925,-106.5426,65
+252,United States,California,Fresno,36.7464,-119.6397,69
+253,United States,Texas,Austin,30.43,-97.8326,93
+254,United States,Iowa,Des Moines,41.6727,-93.5722,80
+255,United States,Florida,Clearwater,27.9843,-82.7813,38
+256,United States,Arizona,Scottsdale,33.2765,-112.1872,98
+257,United States,Georgia,Atlanta,33.8444,-84.474,90
+258,United States,District of Columbia,Washington,38.8933,-77.0146,20
+259,United States,New York,Jamaica,40.6914,-73.8061,50
+260,United States,New York,Bronx,40.8085,-73.9198,60
+261,United States,Florida,Tampa,27.872,-82.4388,17
+262,United States,Oklahoma,Oklahoma City,35.4794,-97.5017,35
+263,United States,California,Bakersfield,35.2944,-118.9052,67
+264,United States,Alabama,Birmingham,33.5446,-86.9292,91
+265,United States,District of Columbia,Washington,38.8933,-77.0146,87
+266,United States,Delaware,Newark,39.5645,-75.597,46
+267,United States,Alabama,Birmingham,33.5446,-86.9292,10
+268,United States,California,Sacramento,38.6026,-121.4475,73
+269,United States,Texas,Houston,29.9319,-95.6106,52
+270,United States,Virginia,Charlottesville,38.0401,-78.4851,19
+271,United States,Colorado,Denver,39.7388,-104.4083,95
+272,United States,Arizona,Tucson,31.9701,-111.8907,58
+273,United States,Colorado,Denver,39.7388,-104.4083,23
+274,United States,Virginia,Alexandria,38.8158,-77.09,7
+275,United States,Washington,Seattle,47.4497,-122.3076,78
+276,United States,Florida,Hollywood,25.9894,-80.2153,94
+277,United States,Texas,Dallas,32.8756,-96.7495,1
+278,United States,Florida,Tampa,27.872,-82.4388,8
+279,United States,Michigan,Detroit,42.4098,-82.9441,61
+280,United States,California,Sacramento,38.6406,-121.444,69
+281,United States,California,Anaheim,33.8359,-117.9086,35
+282,United States,District of Columbia,Washington,38.8933,-77.0146,97
+283,United States,Florida,Orlando,28.5663,-81.2608,56
+284,United States,Alabama,Birmingham,33.5446,-86.9292,38
+285,United States,Iowa,Davenport,41.613,-90.6063,23
+286,United States,Ohio,Cleveland,41.6857,-81.6728,49
+287,United States,Louisiana,New Orleans,30.033,-89.8826,83
+288,United States,District of Columbia,Washington,38.8933,-77.0146,34
+289,United States,California,Newport Beach,33.6062,-117.8931,53
+290,United States,Massachusetts,Boston,42.3615,-71.0604,46
+291,United States,New York,Elmira,42.0869,-76.8397,51
+292,United States,Mississippi,Gulfport,30.4158,-89.0684,69
+293,United States,Michigan,Lansing,42.7325,-84.5587,46
+294,United States,District of Columbia,Washington,38.8933,-77.0146,78
+295,United States,Maryland,Baltimore,39.2847,-76.6205,78
+296,United States,Michigan,Ann Arbor,42.2535,-83.8366,92
+297,United States,Florida,Miami,25.768,-80.2714,25
+298,United States,North Carolina,Raleigh,35.7977,-78.6253,4
+299,United States,Ohio,Cincinnati,39.1668,-84.5382,97
+300,United States,Tennessee,Knoxville,35.9901,-83.9622,72
+301,United States,Florida,Hialeah,25.9098,-80.3889,14
+302,United States,Nebraska,Omaha,41.2435,-95.9629,26
+303,United States,Oklahoma,Oklahoma City,35.5514,-97.4075,69
+304,United States,Colorado,Colorado Springs,38.8247,-104.562,79
+305,United States,Florida,Port Saint Lucie,27.3822,-80.409,75
+306,United States,California,Modesto,37.6566,-121.0191,2
+307,United States,Arizona,Mesa,33.3887,-111.8428,26
+308,United States,Texas,Dallas,32.7673,-96.7776,85
+309,United States,Minnesota,Minneapolis,45.0632,-93.3811,85
+310,United States,California,Escondido,33.0169,-116.846,41
+311,United States,Arizona,Scottsdale,33.6013,-111.8867,10
+312,United States,New York,New York City,40.7808,-73.9772,50
+313,United States,California,Salinas,36.7563,-121.6703,13
+314,United States,Colorado,Colorado Springs,38.9497,-104.767,88
+315,United States,Montana,Missoula,47.116,-114.0498,7
+316,United States,Rhode Island,Providence,41.7845,-71.3959,29
+317,United States,New Jersey,Elizabeth,40.6747,-74.2239,60
+318,United States,New York,Albany,42.7198,-73.8207,27
+319,United States,Arizona,Phoenix,33.6299,-112.1316,11
+320,United States,Texas,Houston,29.6218,-95.4819,88
+321,United States,Arizona,Phoenix,33.5623,-112.0559,21
+322,United States,Florida,Fort Lauderdale,26.0663,-80.3339,27
+323,United States,Virginia,Norfolk,36.8586,-76.2686,83
+324,United States,New Mexico,Albuquerque,35.0443,-106.6729,14
+325,United States,Texas,San Antonio,29.4375,-98.4616,9
+326,United States,Florida,Vero Beach,27.709,-80.5726,87
+327,United States,Connecticut,New Haven,41.3057,-72.7799,8
+328,United States,Florida,Miami,25.6615,-80.441,89
+329,United States,Illinois,Peoria,40.7442,-89.7184,89
+330,United States,Ohio,Toledo,41.6782,-83.4972,74
+331,United States,California,San Francisco,37.7848,-122.7278,63
+332,United States,Colorado,Colorado Springs,38.8881,-104.6556,58
+333,United States,Virginia,Richmond,37.5313,-77.4161,69
+334,United States,California,Sacramento,38.3774,-121.4444,30
+335,United States,Minnesota,Saint Paul,45.0059,-93.1059,89
+336,United States,Iowa,Des Moines,41.6727,-93.5722,3
+337,United States,New Jersey,Trenton,40.251,-74.7627,57
+338,United States,Virginia,Suffolk,36.8926,-76.5142,77
+339,United States,New York,New York City,40.7808,-73.9772,53
+340,United States,Indiana,Indianapolis,39.7795,-86.1328,73
+341,United States,Virginia,Dulles,39.009,-77.4422,92
+342,United States,Tennessee,Chattanooga,35.0942,-85.1757,68
+343,United States,California,Anaheim,33.8359,-117.9086,70
+344,United States,Michigan,Saginaw,43.3869,-84.0926,30
+345,United States,District of Columbia,Washington,38.9381,-77.086,59
+346,United States,Missouri,Lees Summit,38.8518,-94.3944,40
+347,United States,California,Inglewood,33.7866,-118.2987,22
+348,United States,New Mexico,Albuquerque,35.0443,-106.6729,76
+349,United States,North Carolina,Raleigh,35.7977,-78.6253,91
+350,United States,Texas,Corpus Christi,27.777,-97.4632,56
+351,United States,North Carolina,Greensboro,36.0777,-79.9086,79
+352,United States,Texas,El Paso,31.6948,-106.3,78
+353,United States,Texas,El Paso,31.6948,-106.3,83
+354,United States,Utah,Salt Lake City,40.6681,-111.9083,72
+355,United States,New York,Albany,42.6568,-73.7605,64
+356,United States,Texas,Wichita Falls,33.9995,-98.3938,73
+357,United States,Alabama,Mobile,30.6341,-88.0846,80
+358,United States,Ohio,Canton,40.854,-81.4278,14
+359,United States,Illinois,Chicago,41.9229,-87.6483,64
+360,United States,Colorado,Denver,39.7002,-105.0028,2
+361,United States,Virginia,Suffolk,36.8926,-76.5142,37
+362,United States,Louisiana,New Orleans,30.033,-89.8826,25
+363,United States,Alaska,Juneau,58.3271,-134.4742,58
+364,United States,Utah,Ogden,41.2553,-111.9567,87
+365,United States,New York,New York City,40.7808,-73.9772,93
+366,United States,West Virginia,Huntington,38.4134,-82.2774,6
+367,United States,California,Los Angeles,33.7866,-118.2987,36
+368,United States,Texas,Fort Worth,32.6469,-97.3325,86
+369,United States,Iowa,Davenport,41.5386,-90.6115,24
+370,United States,Texas,San Antonio,29.4375,-98.4616,74
+371,United States,Missouri,Saint Louis,38.6185,-90.2564,97
+372,United States,California,San Diego,33.0169,-116.846,43
+373,United States,Connecticut,Hartford,41.7691,-72.701,11
+374,United States,Texas,Corpus Christi,27.7762,-97.4271,35
+375,United States,Oregon,Portland,45.484,-122.5973,77
+376,United States,Washington,Vancouver,45.6231,-122.5767,50
+377,United States,Virginia,Alexandria,38.82,-77.0589,3
+378,United States,Maryland,Rockville,39.0763,-77.1234,19
+379,United States,Oregon,Portland,45.5287,-122.6363,21
+380,United States,Wisconsin,Milwaukee,43.0685,-87.9715,96
+381,United States,Michigan,Saginaw,43.3869,-84.0926,52
+382,United States,Alabama,Montgomery,32.2334,-86.2085,60
+383,United States,Nevada,Las Vegas,36.2158,-115.0671,32
+384,United States,Pennsylvania,Philadelphia,39.9788,-75.1262,16
+385,United States,Pennsylvania,Philadelphia,40.0018,-75.1179,46
+386,United States,Indiana,Evansville,37.929,-87.6604,7
+387,United States,Michigan,Flint,43.0349,-83.6887,63
+388,United States,California,Hayward,37.6374,-122.067,66
+389,United States,Illinois,Chicago,41.7454,-87.7135,64
+390,United States,Florida,Gainesville,29.6785,-82.3679,66
+391,United States,Texas,Fort Worth,32.7714,-97.2915,37
+392,United States,Colorado,Colorado Springs,38.9497,-104.767,12
+393,United States,South Carolina,Myrtle Beach,33.7377,-78.9787,47
+394,United States,New York,Elmira,42.0869,-76.8397,15
+395,United States,Kentucky,Louisville,38.2467,-85.6853,27
+396,United States,Indiana,Indianapolis,39.7795,-86.1328,67
+397,United States,Georgia,Savannah,31.9714,-81.0716,91
+398,United States,California,Inglewood,33.7866,-118.2987,46
+399,United States,Texas,Dallas,32.7673,-96.7776,56
+400,United States,Florida,Miami,25.7341,-80.4068,34
+401,United States,California,Los Angeles,34.0606,-118.3027,60
+402,United States,Indiana,Fort Wayne,41.0938,-85.0707,26
+403,United States,Michigan,Lansing,42.5992,-84.372,93
+404,United States,California,Los Angeles,34.0585,-118.3012,56
+405,United States,California,Oakland,37.6802,-121.9215,38
+406,United States,Florida,Orlando,28.4522,-81.4678,70
+407,United States,Minnesota,Saint Paul,45.0059,-93.1059,8
+408,United States,Alabama,Birmingham,33.5446,-86.9292,34
+409,United States,Washington,Tacoma,47.2484,-122.4644,38
+410,United States,Ohio,Cleveland,41.5008,-81.5516,81
+411,United States,Pennsylvania,Bethlehem,40.6278,-75.3928,62
+412,United States,Michigan,Ann Arbor,42.2535,-83.8366,2
+413,United States,Georgia,Savannah,32.0175,-80.997,7
+414,United States,Montana,Billings,45.9497,-108.599,62
+415,United States,Florida,Panama City,30.2345,-85.692,75
+416,United States,Indiana,Evansville,37.9971,-87.575,8
+417,United States,California,Pasadena,33.7866,-118.2987,79
+418,United States,Maryland,Silver Spring,39.144,-77.2076,2
+419,United States,New York,New York City,40.7808,-73.9772,92
+420,United States,California,Bakersfield,35.4369,-119.0679,20
+421,United States,California,San Francisco,37.7848,-122.7278,47
+422,United States,Michigan,Lansing,42.7286,-84.5517,20
+423,United States,Alaska,Anchorage,61.1872,-149.8804,87
+424,United States,Illinois,Chicago,41.8756,-87.6378,12
+425,United States,Wisconsin,Milwaukee,43.0174,-87.5697,56
+426,United States,Missouri,Saint Louis,38.7072,-90.3055,99
+427,United States,California,Fresno,36.7464,-119.6397,99
+428,United States,Texas,El Paso,31.6948,-106.3,44
+429,United States,Connecticut,New Haven,41.3657,-72.9275,71
+430,United States,Florida,West Palm Beach,26.67,-80.0582,58
+431,United States,Illinois,Chicago,41.8119,-87.6873,12
+432,United States,Maryland,Silver Spring,38.9982,-77.0338,20
+433,United States,North Carolina,Charlotte,35.26,-80.8042,53
+434,United States,Florida,Miami,25.9441,-80.2144,7
+435,United States,Florida,Jacksonville,30.329,-81.8176,47
+436,United States,Kansas,Topeka,39.0142,-95.6982,86
+437,United States,California,Anaheim,33.8356,-117.9132,22
+438,United States,Tennessee,Chattanooga,35.0018,-85.3138,72
+439,United States,Kentucky,Lexington,38.0612,-84.4583,80
+440,United States,North Carolina,Raleigh,35.8887,-78.6393,12
+441,United States,New York,Rochester,43.1216,-77.7311,16
+442,United States,Kentucky,Lexington,38.0283,-84.4715,3
+443,United States,Maryland,Hyattsville,38.9513,-76.8958,69
+444,United States,Michigan,Detroit,42.2719,-83.1545,66
+445,United States,Texas,Huntsville,30.7813,-95.5953,50
+446,United States,Washington,Spokane,47.6536,-117.4317,95
+447,United States,Alabama,Birmingham,33.5446,-86.9292,8
+448,United States,Illinois,Chicago,41.7458,-87.6054,31
+449,United States,Texas,San Antonio,29.3494,-98.4422,81
+450,United States,District of Columbia,Washington,38.8933,-77.0146,56
+451,United States,Georgia,Lawrenceville,33.9464,-83.9912,50
+452,United States,Colorado,Aurora,39.7388,-104.4083,26
+453,United States,Texas,Houston,29.834,-95.4342,68
+454,United States,Minnesota,Minneapolis,44.9034,-93.374,46
+455,United States,District of Columbia,Washington,38.8933,-77.0146,73
+456,United States,California,Santa Rosa,38.4386,-122.6727,63
+457,United States,Indiana,Evansville,37.9971,-87.575,38
+458,United States,Texas,Wichita Falls,33.8581,-98.5755,84
+459,United States,North Carolina,Charlotte,35.26,-80.8042,71
+460,United States,New Mexico,Albuquerque,35.1104,-106.5781,87
+461,United States,Iowa,Des Moines,41.5487,-93.5827,72
+462,United States,Arizona,Prescott,34.8185,-112.9584,53
+463,United States,Missouri,Springfield,37.1803,-93.2951,41
+464,United States,District of Columbia,Washington,38.8933,-77.0146,90
+465,United States,Wisconsin,Madison,43.0982,-89.3242,100
+466,United States,North Carolina,Fayetteville,35.0583,-79.008,6
+467,United States,California,Sacramento,38.3774,-121.4444,88
+468,United States,Oklahoma,Oklahoma City,35.421,-97.5616,39
+469,United States,Alabama,Birmingham,33.3813,-86.7046,63
+470,United States,Texas,El Paso,31.6948,-106.3,81
+471,United States,Colorado,Littleton,39.592,-105.1328,63
+472,United States,New York,Syracuse,43.0214,-76.1977,13
+473,United States,Missouri,Kansas City,39.2829,-94.409,29
+474,United States,New Mexico,Las Cruces,32.3052,-106.7863,87
+475,United States,Kentucky,Lexington,37.9651,-84.4708,18
+476,United States,Arkansas,Little Rock,34.7519,-92.3925,13
+477,United States,New York,Albany,42.6149,-73.9708,23
+478,United States,California,Anaheim,33.8359,-117.9086,4
+479,United States,Texas,Houston,29.834,-95.4342,82
+480,United States,Texas,San Antonio,29.5189,-98.6006,4
+481,United States,Mississippi,Jackson,32.3113,-90.3972,78
+482,United States,California,San Bernardino,34.1446,-117.3013,57
+483,United States,Illinois,Springfield,39.7495,-89.606,16
+484,United States,Georgia,Marietta,34.0378,-84.5038,79
+485,United States,California,Bakersfield,35.2944,-118.9052,42
+486,United States,Colorado,Denver,39.7388,-104.4083,60
+487,United States,Virginia,Merrifield,38.8318,-77.2888,58
+488,United States,Indiana,Fort Wayne,41.0938,-85.0707,26
+489,United States,Missouri,Kansas City,39.1042,-94.4923,25
+490,United States,Utah,Salt Lake City,40.7259,-111.9394,17
+491,United States,Massachusetts,Worcester,42.2894,-71.7888,1
+492,United States,Tennessee,Knoxville,36.032,-83.8021,93
+493,United States,Nevada,Las Vegas,35.9279,-114.9721,10
+494,United States,Arizona,Tucson,32.2138,-110.824,61
+495,United States,Florida,Jacksonville,30.287,-81.3893,49
+496,United States,Michigan,Dearborn,42.3349,-83.1801,39
+497,United States,Florida,Pensacola,30.4756,-87.3179,94
+498,United States,Arkansas,North Little Rock,34.8337,-92.3289,15
+499,United States,New York,New Hyde Park,40.7548,-73.6018,70
+500,United States,Maryland,Bethesda,39.0024,-77.1034,30
+501,United States,Delaware,Wilmington,39.5645,-75.597,14
+502,United States,Alabama,Montgomery,32.3544,-86.2843,86
+503,United States,Florida,Tampa,28.0081,-82.5805,36
+504,United States,Alabama,Birmingham,33.3538,-86.8254,9
+505,United States,Colorado,Denver,39.731,-104.9384,1
+506,United States,Texas,Arlington,32.7714,-97.2915,45
+507,United States,New York,Albany,42.6149,-73.9708,29
+508,United States,Washington,Spokane,47.6536,-117.4317,86
+509,United States,Texas,Spring,30.0505,-95.4695,94
+510,United States,New York,Brooklyn,40.6407,-73.9028,86
+511,United States,Illinois,Springfield,39.7495,-89.606,88
+512,United States,New Mexico,Albuquerque,35.0443,-106.6729,91
+513,United States,California,Santa Rosa,38.4386,-122.6727,1
+514,United States,Missouri,Springfield,37.1803,-93.2951,25
+515,United States,Texas,Houston,29.6297,-95.4382,86
+516,United States,Maryland,Baltimore,39.3316,-76.6336,30
+517,United States,Alabama,Birmingham,33.6493,-86.7057,6
+518,United States,Georgia,Atlanta,33.723,-84.4702,94
+519,United States,Florida,Daytona Beach,29.0227,-81.1722,55
+520,United States,Alabama,Tuscaloosa,33.3072,-87.5859,26
+521,United States,Missouri,Saint Joseph,39.7076,-94.8677,50
+522,United States,California,Mountain View,37.1894,-121.7053,34
+523,United States,Texas,Dallas,32.7673,-96.7776,39
+524,United States,New York,White Plains,41.0247,-73.7781,57
+525,United States,North Carolina,Fayetteville,35.0583,-79.008,77
+526,United States,Texas,Houston,29.834,-95.4342,71
+527,United States,Pennsylvania,Erie,42.1827,-80.0649,14
+528,United States,Oklahoma,Tulsa,36.1398,-96.0297,45
+529,United States,Illinois,Chicago,41.7454,-87.7135,71
+530,United States,California,Bakersfield,35.3039,-119.1056,55
+531,United States,Wisconsin,Milwaukee,43.0174,-87.5697,79
+532,United States,North Carolina,Raleigh,35.7977,-78.6253,90
+533,United States,Minnesota,Young America,44.8055,-93.7665,26
+534,United States,Tennessee,Chattanooga,35.0768,-85.3082,19
+535,United States,Georgia,Marietta,33.9328,-84.556,18
+536,United States,California,Simi Valley,34.0324,-119.1343,33
+537,United States,Nebraska,Lincoln,40.8247,-96.6252,35
+538,United States,New York,Jamaica,40.6763,-73.7966,97
+539,United States,California,Palmdale,34.6019,-117.8123,99
+540,United States,Texas,Lubbock,33.61,-101.8213,19
+541,United States,Minnesota,Young America,44.8055,-93.7665,2
+542,United States,Ohio,Toledo,41.6538,-83.6589,68
+543,United States,Pennsylvania,Harrisburg,40.3086,-76.8464,93
+544,United States,Montana,Bozeman,45.7246,-111.1238,6
+545,United States,California,San Francisco,37.7848,-122.7278,76
+546,United States,California,Sacramento,38.596,-121.3978,38
+547,United States,Alabama,Montgomery,32.373,-86.3081,5
+548,United States,California,Oakland,37.799,-122.2337,7
+549,United States,New Mexico,Albuquerque,35.0443,-106.6729,36
+550,United States,California,Oakland,37.8044,-122.2698,85
+551,United States,Florida,West Palm Beach,26.6644,-80.1741,71
+552,United States,California,Visalia,36.3551,-119.301,89
+553,United States,Texas,San Antonio,29.3494,-98.4422,76
+554,United States,California,San Jose,37.2458,-121.8306,53
+555,United States,California,Glendale,33.7866,-118.2987,32
+556,United States,Virginia,Richmond,37.5158,-77.5047,58
+557,United States,Kentucky,Migrate,38.0638,-84.5027,62
+558,United States,New York,New York City,40.7808,-73.9772,40
+559,United States,Alabama,Anniston,33.7358,-85.7933,90
+560,United States,Texas,El Paso,31.6948,-106.3,39
+561,United States,District of Columbia,Washington,38.8933,-77.0146,59
+562,United States,Missouri,Saint Louis,38.5495,-90.3811,65
+563,United States,District of Columbia,Washington,38.891,-77.0211,83
+564,United States,Pennsylvania,Philadelphia,40.0365,-75.1451,100
+565,United States,Virginia,Richmond,37.5593,-77.4471,90
+566,United States,Kansas,Wichita,37.6808,-97.1558,34
+567,United States,Kansas,Topeka,39.0429,-95.7697,35
+568,United States,Michigan,Troy,42.5991,-83.1789,79
+569,United States,Florida,Port Charlotte,27.0228,-82.1108,27
+570,United States,Arkansas,Fort Smith,35.2502,-94.3703,11
+571,United States,District of Columbia,Washington,38.8933,-77.0146,61
+572,United States,Alabama,Birmingham,33.5446,-86.9292,78
+573,United States,Florida,Ocala,29.1565,-82.2095,6
+574,United States,Colorado,Colorado Springs,38.8247,-104.562,73
+575,United States,Ohio,Canton,40.7911,-81.4169,37
+576,United States,Kansas,Topeka,39.0429,-95.7697,29
+577,United States,Texas,Midland,31.8693,-102.0317,66
+578,United States,Connecticut,Hartford,41.7691,-72.701,9
+579,United States,Indiana,Indianapolis,39.8326,-86.0836,51
+580,United States,California,San Francisco,37.7848,-122.7278,1
+581,United States,Maryland,Baltimore,39.2847,-76.6205,58
+582,United States,Illinois,Springfield,39.7655,-89.7293,14
+583,United States,North Carolina,Wilmington,34.2651,-77.867,50
+584,United States,Florida,Jacksonville,30.3189,-81.6854,13
+585,United States,Kansas,Wichita,37.7667,-97.2805,24
+586,United States,North Carolina,Winston Salem,36.0275,-80.2073,20
+587,United States,Virginia,Richmond,37.5498,-77.4588,79
+588,United States,California,Sacramento,38.6406,-121.444,87
+589,United States,Florida,Clearwater,28.0173,-82.7461,82
+590,United States,Texas,Midland,31.8693,-102.0317,25
+591,United States,Alabama,Mobile,30.6589,-88.178,6
+592,United States,California,Los Angeles,34.0515,-118.2559,59
+593,United States,North Carolina,Raleigh,35.7908,-78.653,12
+594,United States,South Carolina,Myrtle Beach,33.7377,-78.9787,61
+595,United States,Florida,Kissimmee,27.9953,-81.2593,15
+596,United States,Texas,Lubbock,33.61,-101.8213,9
+597,United States,North Carolina,Raleigh,35.7977,-78.6253,11
+598,United States,Minnesota,Minneapolis,44.9762,-93.2759,33
+599,United States,District of Columbia,Washington,38.8874,-77.0047,41
+600,United States,Mississippi,Jackson,32.3113,-90.3972,91
+601,United States,Texas,El Paso,31.6948,-106.3,12
+602,United States,Florida,North Port,27.0459,-82.2491,97
+603,United States,Florida,Homestead,25.2846,-80.6246,41
+604,United States,Kentucky,Louisville,38.189,-85.6768,24
+605,United States,Indiana,Crawfordsville,40.04,-86.8936,5
+606,United States,Florida,Miami,25.5584,-80.4582,93
+607,United States,Mississippi,Jackson,32.2832,-90.2306,8
+608,United States,Florida,Pensacola,30.4481,-87.2589,95
+609,United States,Utah,Ogden,41.1894,-111.9489,66
+610,United States,Texas,San Antonio,29.5054,-98.6688,38
+611,United States,New York,Elmira,42.0869,-76.8397,46
+612,United States,Florida,Hollywood,26.0185,-80.3449,79
+613,United States,Maryland,Laurel,38.8336,-76.8777,77
+614,United States,District of Columbia,Washington,38.8933,-77.0146,39
+615,United States,Minnesota,Minneapolis,44.8756,-93.2553,67
+616,United States,Georgia,Atlanta,33.8444,-84.474,58
+617,United States,Texas,Dallas,32.6722,-96.7774,64
+618,United States,Illinois,Chicago,41.8097,-87.6533,90
+619,United States,Massachusetts,Boston,42.3389,-70.9196,79
+620,United States,South Carolina,Spartanburg,35.1114,-82.1055,63
+621,United States,California,Long Beach,33.7866,-118.2987,98
+622,United States,Florida,Orlando,28.5289,-81.4787,81
+623,United States,Texas,Houston,29.9015,-95.2848,84
+624,United States,Pennsylvania,Philadelphia,40.0018,-75.1179,71
+625,United States,Florida,Saint Petersburg,27.8918,-82.7248,57
+626,United States,Washington,Seattle,47.4323,-121.8034,66
+627,United States,Florida,Fort Myers,26.5228,-81.7065,93
+628,United States,Alaska,Anchorage,61.1901,-149.9361,65
+629,United States,New York,Bronx,40.8247,-73.894,92
+630,United States,Colorado,Denver,39.7388,-104.4083,16
+631,United States,Texas,Pasadena,29.6518,-95.1464,93
+632,United States,Florida,Orlando,28.4429,-81.4026,17
+633,United States,District of Columbia,Washington,38.8933,-77.0146,76
+634,United States,New Mexico,Albuquerque,35.0512,-106.7269,56
+635,United States,Pennsylvania,Pittsburgh,40.4072,-79.9839,3
+636,United States,New Jersey,Trenton,40.2805,-74.712,35
+637,United States,Illinois,Palatine,41.8119,-87.6873,60
+638,United States,Pennsylvania,Pittsburgh,40.4344,-80.0248,16
+639,United States,New York,New York City,40.7808,-73.9772,64
+640,United States,Ohio,Toledo,41.6492,-83.6706,30
+641,United States,Florida,Cape Coral,26.6599,-81.8934,88
+642,United States,Minnesota,Saint Paul,45.0059,-93.1059,35
+643,United States,Kentucky,Lexington,38.0283,-84.4715,70
+644,United States,California,Inglewood,33.9583,-118.3258,79
+645,United States,Idaho,Boise,43.4599,-116.244,53
+646,United States,New York,Brooklyn,40.6794,-74.0014,45
+647,United States,Texas,Houston,29.7543,-95.3609,77
+648,United States,Tennessee,Nashville,36.1379,-86.741,23
+649,United States,Alabama,Mobile,30.6589,-88.178,42
+650,United States,Virginia,Norfolk,36.9312,-76.2397,93
+651,United States,Kentucky,Louisville,38.189,-85.6768,78
+652,United States,New York,Elmira,42.0869,-76.8397,33
+653,United States,California,Pasadena,33.7866,-118.2987,88
+654,United States,New Mexico,Albuquerque,35.0443,-106.6729,84
+655,United States,Virginia,Richmond,37.5242,-77.4932,76
+656,United States,Iowa,Waterloo,42.4156,-92.2703,79
+657,United States,Washington,Tacoma,47.2325,-122.3594,31
+658,United States,New Mexico,Albuquerque,35.0443,-106.6729,16
+659,United States,Nevada,Sparks,39.6269,-119.7081,50
+660,United States,Georgia,Macon,32.8067,-83.6913,84
+661,United States,Illinois,Chicago,41.8119,-87.6873,97
+662,United States,Kentucky,Louisville,38.189,-85.6768,25
+663,United States,Florida,Miami,25.7274,-80.4497,38
+664,United States,Georgia,Atlanta,33.8913,-84.0746,55
+665,United States,Pennsylvania,Scranton,41.4019,-75.6376,39
+666,United States,Texas,Dallas,32.7673,-96.7776,40
+667,United States,Michigan,Lansing,42.7325,-84.5587,81
+668,United States,Florida,Boca Raton,26.4116,-80.0928,76
+669,United States,Virginia,Sterling,39.0853,-77.6452,40
+670,United States,Arizona,Tucson,32.2138,-110.824,9
+671,United States,West Virginia,Morgantown,39.6505,-79.944,31
+672,United States,Colorado,Littleton,39.5437,-104.9691,37
+673,United States,Indiana,South Bend,41.5968,-86.293,51
+674,United States,South Dakota,Sioux Falls,43.6746,-96.7913,60
+675,United States,Texas,San Antonio,29.4237,-98.4925,85
+676,United States,Texas,Houston,29.834,-95.4342,28
+677,United States,Washington,Seattle,47.4441,-122.3249,21
+678,United States,Virginia,Suffolk,36.8926,-76.5142,70
+679,United States,Tennessee,Nashville,36.1866,-86.7852,15
+680,United States,Texas,Houston,29.6518,-95.4854,96
+681,United States,California,Long Beach,33.8635,-118.1801,80
+682,United States,Georgia,Gainesville,34.3562,-83.8882,29
+683,United States,North Carolina,Durham,36.0218,-78.9478,35
+684,United States,Iowa,Des Moines,41.6727,-93.5722,32
+685,United States,Tennessee,Memphis,35.2017,-89.9715,67
+686,United States,Louisiana,Shreveport,32.6076,-93.7526,39
+687,United States,Florida,Punta Gorda,26.9668,-81.9545,84
+688,United States,Florida,Orlando,28.5803,-81.4396,46
+689,United States,Arkansas,Little Rock,34.7519,-92.3925,22
+690,United States,District of Columbia,Washington,38.8933,-77.0146,98
+691,United States,District of Columbia,Washington,38.9067,-77.0312,68
+692,United States,Colorado,Colorado Springs,38.8247,-104.562,81
+693,United States,Tennessee,Kingsport,36.5799,-82.5733,87
+694,United States,Nebraska,Lincoln,40.8247,-96.6252,10
+695,United States,Texas,El Paso,31.6948,-106.3,41
+696,United States,Minnesota,Maple Plain,45.0159,-93.4719,5
+697,United States,Louisiana,Lake Charles,30.1244,-93.1835,66
+698,United States,Pennsylvania,Valley Forge,39.9832,-75.7481,49
+699,United States,New Jersey,Newark,40.7918,-74.2452,87
+700,United States,Texas,Denton,33.1428,-97.0727,15
+701,United States,Kentucky,Lexington,38.0283,-84.4715,95
+702,United States,Pennsylvania,Harrisburg,40.2618,-76.88,36
+703,United States,Georgia,Atlanta,33.7629,-84.4226,56
+704,United States,Texas,Austin,30.2721,-97.6868,19
+705,United States,North Carolina,Raleigh,35.7977,-78.6253,14
+706,United States,Texas,El Paso,31.6948,-106.3,80
+707,United States,New Jersey,Paterson,41.0114,-74.3048,100
+708,United States,California,Los Angeles,34.0531,-118.3806,36
+709,United States,Massachusetts,Boston,42.3253,-71.1122,48
+710,United States,Texas,El Paso,31.7674,-106.4304,74
+711,United States,Michigan,Detroit,42.2399,-83.1508,14
+712,United States,Virginia,Roanoke,37.2742,-79.9579,49
+713,United States,Florida,Daytona Beach,29.2219,-81.0095,36
+714,United States,California,San Diego,33.0169,-116.846,1
+715,United States,Missouri,Kansas City,39.2627,-94.697,92
+716,United States,Washington,Tacoma,47.1441,-122.4434,52
+717,United States,Florida,Fort Pierce,27.4049,-80.3623,27
+718,United States,Kentucky,Frankfort,38.2341,-84.8748,32
+719,United States,Virginia,Richmond,37.5593,-77.4471,10
+720,United States,California,Sacramento,38.3774,-121.4444,91
+721,United States,Texas,Lubbock,33.5693,-101.8904,99
+722,United States,Virginia,Charlottesville,38.0401,-78.4851,93
+723,United States,Texas,Dallas,32.69,-96.9177,59
+724,United States,Mississippi,Biloxi,30.4067,-88.9211,25
+725,United States,Minnesota,Saint Cloud,45.5289,-94.5933,65
+726,United States,Iowa,Sioux City,42.5032,-96.3829,70
+727,United States,Minnesota,Saint Cloud,45.5289,-94.5933,3
+728,United States,Wisconsin,Green Bay,44.5463,-88.1021,43
+729,United States,District of Columbia,Washington,38.8933,-77.0146,8
+730,United States,Ohio,Toledo,41.6492,-83.6706,47
+731,United States,Georgia,Atlanta,33.7473,-84.3824,94
+732,United States,California,Corona,33.7529,-116.0556,69
+733,United States,Arkansas,Little Rock,34.7519,-92.3925,50
+734,United States,Texas,Dallas,32.7673,-96.7776,41
+735,United States,New York,New York City,40.7808,-73.9772,35
+736,United States,Ohio,Akron,41.1075,-81.5006,27
+737,United States,Illinois,Peoria,40.692,-89.5887,78
+738,United States,Florida,Pompano Beach,26.2785,-80.1157,85
+739,United States,Michigan,Detroit,42.3809,-83.0409,15
+740,United States,Tennessee,Memphis,35.2017,-89.9715,21
+741,United States,Pennsylvania,Philadelphia,39.9845,-75.2282,17
+742,United States,Texas,El Paso,31.6948,-106.3,51
+743,United States,District of Columbia,Washington,38.8933,-77.0146,8
+744,United States,California,San Jose,37.3729,-121.856,59
+745,United States,Florida,Brooksville,28.5059,-82.4226,27
+746,United States,New Mexico,Albuquerque,35.0443,-106.6729,48
+747,United States,Texas,Austin,30.4501,-97.4865,48
+748,United States,California,Fullerton,33.7862,-117.9309,58
+749,United States,Illinois,Joliet,41.5454,-88.1299,57
+750,United States,Georgia,Atlanta,33.7217,-84.3339,93
+751,United States,Florida,Boca Raton,26.6459,-80.4303,5
+752,United States,California,Sacramento,38.3774,-121.4444,81
+753,United States,California,Concord,37.7772,-121.9554,38
+754,United States,California,Riverside,33.7529,-116.0556,32
+755,United States,Alabama,Birmingham,33.5446,-86.9292,46
+756,United States,Massachusetts,Boston,42.3389,-70.9196,90
+757,United States,Iowa,Davenport,41.613,-90.6063,9
+758,United States,California,Torrance,33.8106,-118.3507,13
+759,United States,New York,Albany,42.6149,-73.9708,54
+760,United States,Florida,Orlando,28.5456,-81.3782,82
+761,United States,New Mexico,Santa Fe,35.5212,-105.9818,100
+762,United States,Oklahoma,Oklahoma City,35.5704,-97.5257,6
+763,United States,Minnesota,Minneapolis,45.0159,-93.4719,12
+764,United States,New York,Buffalo,42.9255,-78.7481,95
+765,United States,Florida,Naples,26.045,-81.6669,86
+766,United States,Texas,San Antonio,29.4237,-98.4925,10
+767,United States,Florida,Clearwater,27.9139,-82.7157,50
+768,United States,Florida,Pinellas Park,27.8402,-82.7125,41
+769,United States,Ohio,Cleveland,41.5008,-81.5516,82
+770,United States,Texas,Wichita Falls,33.8581,-98.5755,28
+771,United States,Utah,Salt Lake City,40.7372,-111.8581,12
+772,United States,Virginia,Portsmouth,36.8686,-76.3552,52
+773,United States,Washington,Spokane,47.6536,-117.4317,55
+774,United States,California,Salinas,36.7563,-121.6703,20
+775,United States,Texas,Amarillo,35.4015,-101.8951,60
+776,United States,Texas,Amarillo,35.1885,-101.8165,41
+777,United States,Washington,Seattle,47.4511,-122.353,24
+778,United States,Washington,Tacoma,47.0662,-122.1132,13
+779,United States,Missouri,Saint Louis,38.6185,-90.2564,72
+780,United States,Utah,Ogden,41.2553,-111.9567,97
+781,United States,Missouri,Kansas City,39.2627,-94.697,12
+782,United States,California,Berkeley,37.6802,-121.9215,58
+783,United States,Nebraska,Lincoln,40.7845,-96.6888,84
+784,United States,New Mexico,Albuquerque,35.0443,-106.6729,43
+785,United States,Texas,Houston,29.834,-95.4342,98
+786,United States,California,Pasadena,34.1669,-118.1551,76
+787,United States,Virginia,Roanoke,37.2327,-79.9463,68
+788,United States,Texas,El Paso,31.6948,-106.3,67
+789,United States,Florida,Jacksonville,30.2231,-81.7556,98
+790,United States,New York,Albany,42.7198,-73.8207,53
+791,United States,Texas,San Antonio,29.5189,-98.6006,11
+792,United States,South Carolina,Columbia,34.006,-80.9708,80
+793,United States,Illinois,Chicago,41.9229,-87.6483,66
+794,United States,Connecticut,Hartford,41.7691,-72.701,55
+795,United States,North Carolina,Charlotte,35.26,-80.8042,71
+796,United States,Colorado,Aurora,39.6255,-104.7874,27
+797,United States,Texas,Dallas,32.7673,-96.7776,79
+798,United States,Nevada,Las Vegas,36.0914,-115.0885,52
+799,United States,New Jersey,Newark,40.7918,-74.2452,94
+800,United States,Nebraska,Lincoln,40.8529,-96.7943,33
+801,United States,Texas,El Paso,31.6948,-106.3,92
+802,United States,Pennsylvania,Philadelphia,39.9473,-75.15,59
+803,United States,Texas,Lubbock,33.571,-101.8507,29
+804,United States,Iowa,Iowa City,41.6649,-91.5151,46
+805,United States,Virginia,Roanoke,37.3589,-79.9448,36
+806,United States,Iowa,Des Moines,41.5487,-93.5827,54
+807,United States,Pennsylvania,Bethlehem,40.6278,-75.3928,100
+808,United States,California,Irvine,33.6607,-117.8264,11
+809,United States,South Carolina,Columbia,34.0635,-81.0265,9
+810,United States,North Carolina,High Point,36.0807,-80.0244,94
+811,United States,West Virginia,Charleston,38.2968,-81.5547,73
+812,United States,Texas,Dallas,32.7673,-96.7776,20
+813,United States,California,San Francisco,37.7848,-122.7278,18
+814,United States,Texas,Amarillo,35.4015,-101.8951,37
+815,United States,Arizona,Phoenix,33.6299,-112.1316,69
+816,United States,Louisiana,Monroe,32.4908,-92.1594,66
+817,United States,Florida,Miami,25.5584,-80.4582,64
+818,United States,Minnesota,Minneapolis,45.0159,-93.4719,91
+819,United States,Hawaii,Honolulu,21.3095,-157.863,61
+820,United States,New Mexico,Albuquerque,35.0448,-106.6893,32
+821,United States,Michigan,Grand Rapids,43.0314,-85.5503,69
+822,United States,California,San Francisco,37.7864,-122.3892,57
+823,United States,New Jersey,Trenton,40.2805,-74.712,65
+824,United States,West Virginia,Huntington,38.4096,-82.369,53
+825,United States,New York,Bronx,40.8469,-73.7874,7
+826,United States,Florida,Ocala,29.2541,-82.1095,98
+827,United States,Illinois,Peoria,40.7442,-89.7184,95
+828,United States,Texas,Houston,29.9319,-95.6106,8
+829,United States,Colorado,Denver,39.7388,-104.4083,82
+830,United States,California,Pasadena,33.7866,-118.2987,16
+831,United States,Tennessee,Memphis,35.2017,-89.9715,56
+832,United States,Illinois,Chicago,41.8784,-87.633,52
+833,United States,California,San Mateo,37.3811,-122.3348,99
+834,United States,Louisiana,New Orleans,30.033,-89.8826,73
+835,United States,Texas,Fort Worth,32.6469,-97.3325,22
+836,United States,District of Columbia,Washington,38.9007,-77.0431,16
+837,United States,California,Anaheim,33.8356,-117.9132,72
+838,United States,Nebraska,Omaha,41.2949,-96.0546,68
+839,United States,North Carolina,Charlotte,35.26,-80.8042,8
+840,United States,District of Columbia,Washington,38.9381,-77.086,43
+841,United States,District of Columbia,Washington,38.8933,-77.0146,54
+842,United States,Minnesota,Young America,45.0159,-93.4719,18
+843,United States,Texas,Corpus Christi,27.777,-97.4632,1
+844,United States,Georgia,Atlanta,33.8444,-84.474,17
+845,United States,Texas,Lubbock,33.6021,-101.876,28
+846,United States,Iowa,Davenport,41.613,-90.6063,71
+847,United States,Florida,Ocala,29.1565,-82.2095,57
+848,United States,Arkansas,Little Rock,34.7269,-92.344,27
+849,United States,New York,Rochester,43.1558,-77.6142,67
+850,United States,Florida,Gainesville,29.6813,-82.3539,92
+851,United States,Missouri,Columbia,38.9033,-92.1022,28
+852,United States,California,Oxnard,34.0324,-119.1343,10
+853,United States,New York,Brooklyn,40.6281,-73.9467,88
+854,United States,Colorado,Aurora,39.7388,-104.4083,90
+855,United States,Texas,Round Rock,30.6568,-97.6026,89
+856,United States,Louisiana,Baton Rouge,30.3795,-91.1671,19
+857,United States,Massachusetts,Springfield,42.1707,-72.6048,83
+858,United States,Kansas,Shawnee Mission,38.9273,-94.7143,20
+859,United States,Texas,Amarillo,35.4015,-101.8951,60
+860,United States,North Carolina,Charlotte,35.2072,-80.9568,26
+861,United States,Texas,Amarillo,35.4015,-101.8951,1
+862,United States,Ohio,Canton,40.7911,-81.4169,66
+863,United States,Ohio,Dayton,39.7505,-84.2686,62
+864,United States,Ohio,Toledo,41.6767,-83.5573,69
+865,United States,Texas,Longview,32.5547,-94.7767,77
+866,United States,Ohio,Akron,41.028,-81.4632,48
+867,United States,Arkansas,Hot Springs National Park,34.5137,-92.9685,16
+868,United States,Texas,El Paso,31.6948,-106.3,18
+869,United States,Texas,Garland,32.9522,-96.6654,28
+870,United States,Kentucky,Louisville,38.189,-85.6768,26
+871,United States,Florida,Fort Lauderdale,26.1097,-80.3215,85
+872,United States,Alabama,Montgomery,32.2334,-86.2085,22
+873,United States,California,Ventura,34.0324,-119.1343,11
+874,United States,Nebraska,Omaha,41.2933,-95.9361,31
+875,United States,Illinois,Springfield,39.7495,-89.606,12
+876,United States,California,San Luis Obispo,35.3471,-120.4553,82
+877,United States,Washington,Seattle,47.4511,-122.353,39
+878,United States,California,San Francisco,37.7848,-122.7278,87
+879,United States,New York,Buffalo,42.9335,-78.8115,23
+880,United States,Texas,Mesquite,32.7403,-96.5618,82
+881,United States,Florida,Jacksonville,30.329,-81.8176,86
+882,United States,Ohio,Cincinnati,39.1075,-84.5257,20
+883,United States,Oklahoma,Oklahoma City,35.5514,-97.4075,68
+884,United States,Washington,Seattle,47.4441,-122.3249,81
+885,United States,Michigan,Detroit,42.2399,-83.1508,25
+886,United States,South Carolina,Greenville,34.8001,-82.3932,6
+887,United States,Florida,Boca Raton,26.3462,-80.0844,32
+888,United States,Maryland,Frederick,39.47,-77.3921,17
+889,United States,Texas,San Antonio,29.5189,-98.6006,56
+890,United States,Washington,Spokane,47.6964,-117.4399,15
+891,United States,Georgia,Atlanta,33.8444,-84.474,38
+892,United States,Georgia,Macon,32.8926,-83.7455,70
+893,United States,Virginia,Virginia Beach,36.7978,-76.1759,8
+894,United States,Alabama,Mobile,30.6589,-88.178,23
+895,United States,Ohio,Toledo,41.6492,-83.6706,61
+896,United States,Missouri,Lees Summit,38.8518,-94.3944,34
+897,United States,Maryland,Rockville,39.0763,-77.1234,14
+898,United States,Washington,Tacoma,47.3081,-122.4185,45
+899,United States,Minnesota,Duluth,46.8147,-92.1998,49
+900,United States,South Dakota,Sioux Falls,43.524,-96.7341,91
+901,United States,Georgia,Atlanta,33.8444,-84.474,86
+902,United States,Indiana,Evansville,37.929,-87.6604,75
+903,United States,California,San Francisco,37.7848,-122.7278,54
+904,United States,California,Newport Beach,33.6062,-117.8931,12
+905,United States,Washington,Tacoma,47.0662,-122.1132,62
+906,United States,Tennessee,Knoxville,35.9901,-83.9622,9
+907,United States,Wisconsin,Madison,43.0696,-89.4239,18
+908,United States,Arizona,Tucson,32.0848,-110.7122,87
+909,United States,Colorado,Littleton,39.7388,-104.4083,15
+910,United States,Florida,Clearwater,27.9843,-82.7813,12
+911,United States,Texas,Humble,30.0042,-95.1728,39
+912,United States,Idaho,Pocatello,42.6395,-112.3138,51
+913,United States,Illinois,Springfield,39.7495,-89.606,22
+914,United States,Kansas,Topeka,39.0429,-95.7697,64
+915,United States,Florida,Jacksonville,30.3584,-81.692,63
+916,United States,Arizona,Scottsdale,33.6013,-111.8867,29
+917,United States,Illinois,Chicago,41.993,-87.7596,3
+918,United States,Arizona,Phoenix,33.5623,-112.0559,36
+919,United States,New York,Rochester,43.286,-77.6843,58
+920,United States,North Carolina,High Point,36.0807,-80.0244,23
+921,United States,Pennsylvania,Wilkes Barre,41.2722,-75.8801,69
+922,United States,California,Pomona,33.7866,-118.2987,25
+923,United States,Wisconsin,Milwaukee,43.0746,-88.0604,59
+924,United States,Illinois,Peoria,40.7857,-89.6177,37
+925,United States,North Carolina,Charlotte,35.26,-80.8042,31
+926,United States,California,San Jose,37.2187,-121.8601,35
+927,United States,Minnesota,Saint Paul,45.0059,-93.1059,50
+928,United States,New York,Syracuse,43.0123,-76.1452,94
+929,United States,Alabama,Birmingham,33.5446,-86.9292,27
+930,United States,Wisconsin,Milwaukee,43.0174,-87.5697,83
+931,United States,Minnesota,Saint Cloud,45.5289,-94.5933,59
+932,United States,Ohio,Columbus,40.0495,-83.0669,99
+933,United States,Minnesota,Minneapolis,44.9762,-93.2759,19
+934,United States,Nebraska,Omaha,41.2335,-96.1188,31
+935,United States,Illinois,Springfield,39.7495,-89.606,78
+936,United States,Florida,Gainesville,29.6785,-82.3679,65
+937,United States,California,San Diego,32.7423,-117.0947,3
+938,United States,Pennsylvania,Lancaster,40.0418,-76.3012,11
+939,United States,Louisiana,New Orleans,30.033,-89.8826,35
+940,United States,Michigan,Dearborn,42.3349,-83.1801,99
+941,United States,District of Columbia,Washington,38.9067,-77.0312,9
+942,United States,Florida,Tampa,27.872,-82.4388,80
+943,United States,Texas,El Paso,31.6948,-106.3,28
+944,United States,Texas,Plano,33.0277,-96.6777,75
+945,United States,Indiana,Crawfordsville,40.04,-86.8936,66
+946,United States,New York,Rochester,43.286,-77.6843,2
+947,United States,Texas,Houston,29.7575,-95.3668,6
+948,United States,Missouri,Saint Louis,38.5814,-90.2625,77
+949,United States,New Jersey,Paterson,40.9166,-74.174,21
+950,United States,West Virginia,Huntington,38.1321,-82.4183,20
+951,United States,New York,New York City,40.7262,-73.9796,73
+952,United States,Minnesota,Minneapolis,44.9762,-93.2759,9
+953,United States,Georgia,Atlanta,33.8444,-84.474,63
+954,United States,Maryland,Laurel,38.8336,-76.8777,43
+955,United States,Alabama,Mobile,30.6341,-88.0846,25
+956,United States,Texas,Austin,30.4501,-97.4865,55
+957,United States,New York,Albany,42.7198,-73.8207,41
+958,United States,Maryland,Baltimore,39.2847,-76.6205,35
+959,United States,Georgia,Atlanta,33.723,-84.4702,3
+960,United States,Tennessee,Nashville,36.1114,-86.869,67
+961,United States,Colorado,Greeley,40.5009,-104.315,46
+962,United States,Ohio,Akron,41.1075,-81.5006,52
+963,United States,Ohio,Dayton,39.7505,-84.2686,36
+964,United States,California,Long Beach,33.7678,-118.1994,58
+965,United States,Texas,Fort Worth,32.7714,-97.2915,36
+966,United States,California,Bakersfield,35.4369,-119.0679,36
+967,United States,Colorado,Boulder,40.0878,-105.3735,62
+968,United States,District of Columbia,Washington,38.8933,-77.0146,22
+969,United States,Louisiana,Baton Rouge,30.3795,-91.1671,1
+970,United States,Indiana,Crawfordsville,40.04,-86.8936,2
+971,United States,District of Columbia,Washington,38.8933,-77.0146,11
+972,United States,Massachusetts,Cambridge,42.362,-71.083,41
+973,United States,Virginia,Lynchburg,37.4009,-79.1785,66
+974,United States,Nevada,Reno,39.7699,-119.6027,33
+975,United States,Minnesota,Saint Paul,44.806,-93.1409,85
+976,United States,Pennsylvania,Pittsburgh,40.5051,-80.1155,35
+977,United States,Ohio,Cincinnati,39.111,-84.6594,96
+978,United States,Michigan,Grand Rapids,43.0314,-85.5503,8
+979,United States,Utah,Salt Lake City,40.7286,-111.6627,69
+980,United States,Indiana,Evansville,37.9971,-87.575,59
+981,United States,Massachusetts,Worcester,42.2894,-71.7888,79
+982,United States,Georgia,Augusta,33.413,-82.1337,74
+983,United States,Wisconsin,Madison,43.0696,-89.4239,7
+984,United States,Indiana,Fort Wayne,41.0938,-85.0707,30
+985,United States,New York,New York City,40.7808,-73.9772,25
+986,United States,Ohio,Cincinnati,39.2692,-84.3307,82
+987,United States,Massachusetts,Brockton,41.9705,-70.7014,76
+988,United States,Virginia,Richmond,37.5242,-77.4932,6
+989,United States,Florida,Clearwater,27.8918,-82.7248,4
+990,United States,Florida,Hialeah,25.8594,-80.2725,12
+991,United States,South Carolina,Columbia,34.0635,-81.0265,96
+992,United States,Washington,Seattle,47.6849,-122.2968,9
+993,United States,Florida,Miami,25.5584,-80.4582,96
+994,United States,Florida,Winter Haven,27.981,-81.6736,27
+995,United States,Tennessee,Nashville,36.1114,-86.869,4
+996,United States,Pennsylvania,Harrisburg,40.2618,-76.88,92
+997,United States,Texas,San Antonio,29.3977,-98.4658,52
+998,United States,Massachusetts,Brockton,41.9705,-70.7014,86
+999,United States,Oklahoma,Oklahoma City,35.3425,-97.6317,66
+1000,United States,Indiana,Gary,41.5878,-87.4062,48
